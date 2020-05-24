@@ -30,7 +30,7 @@ public class BsPokerEngineApplication implements CommandLineRunner {
     }
 
     /**
-     *run: Override method run to execute the process to start application
+     *run: overriding the default run method to execute the process when start the application
      * */
     @Override
     public void run(String... args) throws Exception {
