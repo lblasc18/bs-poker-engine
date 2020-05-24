@@ -8,7 +8,7 @@ This application was generated using:
  
  Using template spring boot project at https://start.spring.io/
  
-###Remarks
+### Remarks
 
 * You can find pokerdata.txt file on resources directory path: templates / input / pokerdata.txt
 * You Can find pokerdata[results].txt file on resources directory path: templates/input/pokerdata[results].txt after main class execution.
@@ -23,7 +23,7 @@ Run the following commands to clean project and execute the application's main c
 
 Or run java main class: BsPokerEngineApplication.class, for it you will need Java JDK 8 installed.
 
-## Testing
+# Testing
 
 To launch your application's tests, run:
 
@@ -31,7 +31,7 @@ To launch your application's tests, run:
     
 Or run each test of BsPokerEngineApplicationTests class, for it you will need Java JDK 8 installed.
 
-#New Features
+# New Features
 
 This application use to Spring Web for new features on a future like to create Apis REST or integrate with Frontend App.
 
